@@ -1,0 +1,10 @@
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\bin\Debug\Files Comparison.exe.config
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\bin\Debug\Files Comparison.exe
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\bin\Debug\Files Comparison.pdb
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\obj\Debug\Files_Comparison.Form1.resources
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\obj\Debug\Files_Comparison.Properties.Resources.resources
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\obj\Debug\Files Comparison.csproj.GenerateResource.cache
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\obj\Debug\Files Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\obj\Debug\Files Comparison.exe
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\obj\Debug\Files Comparison.pdb
+C:\Users\Abdul Wali\Documents\Visual Studio 2017\Projects\Files Comparison\Files Comparison\obj\Debug\Files Comparison.csprojAssemblyReference.cache
